@@ -1,0 +1,7 @@
+services:
+  eafc-scraper:
+    build: .
+    container_name: eafc-scraper
+    ports:
+      - "3005:3005"
+    restart: unless-stopped
