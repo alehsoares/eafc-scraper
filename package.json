@@ -1,0 +1,9 @@
+{
+  "name": "eafc-scraper",
+  "version": "1.0.0",
+  "main": "eafc.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
